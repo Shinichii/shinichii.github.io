@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Feb 2022 00:03:28 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Well Here We Are Again</title>
+      <link>http://example.org/posts/well-here-we-are-again/</link>
+      <pubDate>Wed, 16 Feb 2022 00:03:28 +0100</pubDate>
+      
+      <guid>http://example.org/posts/well-here-we-are-again/</guid>
+      <description>Hi it&amp;rsquo;s been a long time :wave: How have you been ?
+I decided after a break to come back to blogging on my free time !
+Here&amp;rsquo;s what you can expect on this blog
+ Tutorials Security watch posts Mostly elements that I&amp;rsquo;ve learned or found interesting  I hope that you&amp;rsquo;ll like this new format. I had run into issues with my previous provider, hopefully GitHub will be a bit more lenient :)</description>
+    </item>
+    
+  </channel>
+</rss>
