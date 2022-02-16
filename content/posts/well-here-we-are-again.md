@@ -1,9 +1,9 @@
 ---
-title: "My 1st post"
-date: 2020-09-15T11:30:03+00:00
+title: "Hi it's been a long time :wave:"
+date: 2022-02-15T11:30:03+00:00
 # weight: 1
 aliases: ["/first"]
-tags: ["first"]
+tags: ["first", "chat"]
 author: "Shinichii"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "How have you been ?"
 #canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -24,7 +24,7 @@ ShowPostNavLinks: true
 cover:
     image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    caption: "Well, you found my new blog ! Welcome !" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
@@ -33,17 +33,24 @@ editPost:
     appendFilePath: true # to append file path to Edit link
 ---
 
-# Hi it's been a long time :wave:
-
-How have you been ? 
-
 I decided after a break to come back to blogging on my free time !
 
 Here's what you can expect on this blog 
-* Tutorials
-* Security watch posts
-* Mostly elements that I've learned or found interesting
+* Tutorials (but don't expect a lot);
+* Security watch posts ;
+* Mostly elements that I've learned or found interesting.
 
-I hope that you'll like this new format. I had run into issues with my previous provider, hopefully GitHub will be a bit more lenient :)
 
-See you soon for some articles !
+Please be mindful that my publications are not : 
+
+* Endorsed by my employer. I'm doing this on my free time because I want to share stuff that I find interesting.
+
+* Eternal truths. Stuff changes, and things that I write may fall out of touch. I'll try to do my best to update though.
+
+* To be taken at face value. I may be wrong on subjects and that's okay.
+
+Please be nice. 
+
+I hope that you'll like this new format. I had run into issues with my previous provider which lead me to abandon Medium. Hopefully GitHub will be a bit more lenient :)
+
+See you soon for some articles ! If you like it, do not hesitate to reach out !
