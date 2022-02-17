@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shinichii.github.io/sitemap.xml

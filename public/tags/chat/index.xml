@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>chat on My New Hugo Site</title>
-    <link>http://example.org/tags/chat/</link>
-    <description>Recent content in chat on My New Hugo Site</description>
+    <title>chat on Shinichii - Ace Investigator</title>
+    <link>https://shinichii.github.io/tags/chat/</link>
+    <description>Recent content in chat on Shinichii - Ace Investigator</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 15 Feb 2022 11:30:03 +0000</lastBuildDate><atom:link href="http://example.org/tags/chat/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Feb 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://shinichii.github.io/tags/chat/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My 1st post</title>
-      <link>http://example.org/posts/well-here-we-are-again/</link>
+      <title>It&#39;s been a long time :wave:</title>
+      <link>https://shinichii.github.io/posts/well-here-we-are-again/</link>
       <pubDate>Tue, 15 Feb 2022 11:30:03 +0000</pubDate>
       
-      <guid>http://example.org/posts/well-here-we-are-again/</guid>
-      <description>Hi it&amp;rsquo;s been a long time :wave: How have you been ?
-I decided after a break to come back to blogging on my free time !
-Here&amp;rsquo;s what you can expect on this blog
- Tutorials ; Security watch posts ; Mostly elements that I&amp;rsquo;ve learned or found interesting.  Please be mindful that my publications are not :
-  Endorsed by my employer. I&amp;rsquo;m doing this on my free time because I want to share.</description>
+      <guid>https://shinichii.github.io/posts/well-here-we-are-again/</guid>
+      <description>How have you been ?</description>
     </item>
     
   </channel>
