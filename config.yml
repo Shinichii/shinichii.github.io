@@ -1,5 +1,5 @@
 baseURL: "https://shinichii.github.io"
-title: Shinichii - Ace Investigator
+title: Shinichii's blog
 paginate: 5
 theme: PaperMod
 
@@ -51,7 +51,7 @@ params:
     label:
         text: "Home"
         #icon: /apple-touch-icon.png
-        iconHeight: 35
+        #iconHeight: 35
 
     # profile-mode
     profileMode:
@@ -71,7 +71,7 @@ params:
     # home-info mode
     homeInfoParams:
         Title: "Hi there \U0001F44B"
-        Content: DFIR Ramblings and (sometimes bad) takes
+        Content: DFIR, Ramblings, and (sometimes bad) takes. 
 
     socialIcons:
         - name: twitter
