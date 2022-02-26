@@ -183,11 +183,11 @@ You can follow them on their blogs or social media but **do** note they may spea
 
 Here are some of my prefered accounts on Twitter: 
 
-* SwiftOnSecurity
-* Lesley Carheart
-* Tavis Ormandy
-* Alexander Jaeger
-* Alice Climent
+* [SwiftOnSecurity](https://twitter.com/SwiftOnSecurity)
+* [Lesley Carhart](https://twitter.com/hacks4pancakes)
+* [Tavis Ormandy](https://twitter.com/taviso)
+* [Alexander Jaeger](https://twitter.com/alexanderjaeger)
+* [Alice Climent](https://twitter.com/AliceCliment)
 
 Usually they post interesting snippets related to infosec. They should trigger your curiosity.
 
