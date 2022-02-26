@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>security on Shinichii&#39;s blog</title>
+    <link>https://shinichii.github.io/tags/security/</link>
+    <description>Recent content in security on Shinichii&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://shinichii.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Get started on your security watch</title>
+      <link>https://shinichii.github.io/start-your-security-watch/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      
+      <guid>https://shinichii.github.io/start-your-security-watch/</guid>
+      <description>Why and how to do some cyberwatch.</description>
+    </item>
+    
+  </channel>
+</rss>
