@@ -14,6 +14,7 @@ minify:
     disableXML: true
     minifyOutput: true
 
+
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     title: DFIR / CyberRambling
@@ -56,7 +57,7 @@ params:
     # profile-mode
     profileMode:
         enabled: false # needs to be explicitly set
-        title: Hiiii
+        title: Shinichii's blog
         subtitle: "This is subtitle"
         imageUrl: "<img location>"
         imageWidth: 120
@@ -107,6 +108,19 @@ params:
         threshold: 0.4
         minMatchCharLength: 0
         keys: ["title", "permalink", "summary", "content"]
+
+defaultContentLang: en
+
+languages:
+    en:
+        languageName: English
+        weight: 1
+        contentDir: content/posts/en
+    fr:
+        languageName: Français
+        weight: 2
+        contentDir: content/posts/fr
+
 menu:
     main:
         - identifier: categories
